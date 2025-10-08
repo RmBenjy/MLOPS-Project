@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/reda-/Desktop/Projects/MLOPS-Project/mlruns/0/f50d7162146f4ad685c227fb6d6905c8/artifacts
+end_time: 1759955314929
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f50d7162146f4ad685c227fb6d6905c8
+run_name: respected-deer-389
+run_uuid: f50d7162146f4ad685c227fb6d6905c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759955310077
+status: 3
+tags: []
+user_id: reda-

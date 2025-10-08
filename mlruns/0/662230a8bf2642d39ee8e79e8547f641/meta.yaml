@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/reda-/Desktop/Projects/MLOPS-Project/mlruns/0/662230a8bf2642d39ee8e79e8547f641/artifacts
+end_time: 1759951016385
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 662230a8bf2642d39ee8e79e8547f641
+run_name: rare-auk-154
+run_uuid: 662230a8bf2642d39ee8e79e8547f641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759951006706
+status: 3
+tags: []
+user_id: reda-

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/reda-/Desktop/Projects/MLOPS-Project/mlruns/0/76049c90d7014942a677feff92cb55ac/artifacts
+end_time: 1759954464286
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 76049c90d7014942a677feff92cb55ac
+run_name: funny-pig-418
+run_uuid: 76049c90d7014942a677feff92cb55ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759954459193
+status: 3
+tags: []
+user_id: reda-

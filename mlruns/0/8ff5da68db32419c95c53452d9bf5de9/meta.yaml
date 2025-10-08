@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/reda-/Desktop/Projects/MLOPS-Project/mlruns/0/8ff5da68db32419c95c53452d9bf5de9/artifacts
+end_time: 1759955228996
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8ff5da68db32419c95c53452d9bf5de9
+run_name: gaudy-grouse-146
+run_uuid: 8ff5da68db32419c95c53452d9bf5de9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759955216990
+status: 3
+tags: []
+user_id: reda-
